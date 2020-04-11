@@ -1,0 +1,79 @@
+body {
+  background-color: #fffaee;
+  font-family: 'Montserrat', sans-serif;
+  color: #33322f;
+  font-size-adjust: auto;
+  position: relative;
+  top: 50px;
+  text-align: center;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  height: 200px;
+}
+
+h1 {
+  color: #31312f;
+  margin: auto;
+  text-align: left;
+  display: block;
+  width: 250px;
+}
+
+h3{
+  color: #31312f;
+}
+
+.poem{
+  padding-top: 20px;
+  border-left: 40px;
+  text-align: left;
+  display: block;
+  margin: auto;
+  width: 250px;
+
+}
+.btn {
+	background-color:transparent;
+	-webkit-border-top-left-radius:4px;
+	-moz-border-radius-topleft:4px;
+	border-top-left-radius:4px;
+	-webkit-border-top-right-radius:4px;
+	-moz-border-radius-topright:4px;
+	border-top-right-radius:4px;
+	-webkit-border-bottom-right-radius:4px;
+	-moz-border-radius-bottomright:4px;
+	border-bottom-right-radius:4px;
+	-webkit-border-bottom-left-radius:4px;
+	-moz-border-radius-bottomleft:4px;
+	border-bottom-left-radius:4px;
+text-indent:0;
+	border:1px solid #D3E9FE;
+	display:inline-block;
+	color:#666666;
+	font-family: Montserrat;
+	font-size:15px;
+	font-weight: 100;
+  font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:-1px 1px 0px #fff;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #fff 5%, #fff 100%);
+	background-color:#fff;
+}
+.btn:active {
+	position:relative;
+	top:1px;
